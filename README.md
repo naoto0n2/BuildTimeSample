@@ -3,6 +3,12 @@
 ## Description
 Sample project for ["Build時間改善"](https://speakerdeck.com/naoto0n2/buildshi-jian-gai-shan) (Build Time Improvement) at [CA.swift](https://eventdots.jp/event/606151)
 
+## Measurement Environment
+- Xcode 8.1
+- MacBook Pro (Retina, 15-inch, Mid 2015)
+- 2.5 GHz Intel Core i7
+- Memory 16 GB
+
 ## Demo
 ### Sample1
 [Slide 34](https://speakerdeck.com/naoto0n2/buildshi-jian-gai-shan?slide=34)
