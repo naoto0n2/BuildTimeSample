@@ -11,7 +11,7 @@ Sample project for ["Build時間改善"](https://speakerdeck.com/naoto0n2/builds
 
 ## Demo
 ### Sample1
-[Slide 34](https://speakerdeck.com/naoto0n2/buildshi-jian-gai-shan?slide=34)
+[Slide 37](https://speakerdeck.com/naoto0n2/buildshi-jian-gai-shan?slide=37)
 - Too many + operators
 - Nil coalescing operator
 
@@ -22,7 +22,7 @@ Sample project for ["Build時間改善"](https://speakerdeck.com/naoto0n2/builds
 ***
 
 ### Sample2
-[Slide 44](https://speakerdeck.com/naoto0n2/buildshi-jian-gai-shan?slide=44)
+[Slide 46](https://speakerdeck.com/naoto0n2/buildshi-jian-gai-shan?slide=46)
 - Set Dictionary directly as method argument
 - Use nil coalescing operator in value of Dictionary
 
@@ -33,7 +33,7 @@ Sample project for ["Build時間改善"](https://speakerdeck.com/naoto0n2/builds
 ***
 
 ### Sample3
-[Slide 48](https://speakerdeck.com/naoto0n2/buildshi-jian-gai-shan?slide=48)
+[Slide 50](https://speakerdeck.com/naoto0n2/buildshi-jian-gai-shan?slide=50)
 - Set complex expression as CGSize initializer argument
 - Mixing CGFloat and a numeric value with unclear type
 
